@@ -292,24 +292,23 @@ This tool is designed for legitimate data entry automation only. Please:
 
 ## 📞 Support
 
-- 📧 **Email**: your.email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/google-form-automation/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/google-form-automation/discussions)
-- 📖 **Wiki**: [Project Wiki](https://github.com/yourusername/google-form-automation/wiki)
+- 📧 **Email**: abhijeetsingh17092000@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Abhijeet999-beep/google-form-automation/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Abhijeet999-beep/google-form-automation/discussions)
 
 ---
 
 <div align="center">
   <p>Made with ❤️ for the automation community</p>
   <p>
-    <a href="https://github.com/yourusername/google-form-automation/stargazers">
-      <img src="https://img.shields.io/github/stars/yourusername/google-form-automation?style=social" alt="Stars">
+    <a href="https://github.com/Abhijeet999-beep/google-form-automation/stargazers">
+      <img src="https://img.shields.io/github/stars/Abhijeet999-beep/google-form-automation?style=social" alt="Stars">
     </a>
-    <a href="https://github.com/yourusername/google-form-automation/forks">
-      <img src="https://img.shields.io/github/forks/yourusername/google-form-automation?style=social" alt="Forks">
+    <a href="https://github.com/Abhijeet999-beep/google-form-automation/forks">
+      <img src="https://img.shields.io/github/forks/Abhijeet999-beep/google-form-automation?style=social" alt="Forks">
     </a>
-    <a href="https://github.com/yourusername/google-form-automation/issues">
-      <img src="https://img.shields.io/github/issues/yourusername/google-form-automation" alt="Issues">
+    <a href="https://github.com/Abhijeet999-beep/google-form-automation/issues">
+      <img src="https://img.shields.io/github/issues/Abhijeet999-beep/google-form-automation" alt="Issues">
     </a>
   </p>
 </div> 
