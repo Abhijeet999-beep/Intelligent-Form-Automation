@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.15.2-green.svg)](https://selenium-python.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/google-form-automation.svg?style=social&label=Star)](https://github.com/yourusername/google-form-automation)
+[![Stars](https://img.shields.io/github/stars/Abhijeet999-beep/google-form-automation.svg?style=social&label=Star)](https://github.com/Abhijeet999-beep/google-form-automation)
 
 > **Professional automation suite for intelligent data entry, form filling, and bulk submissions. Perfect for data entry automation, survey collection, and enterprise form processing.**
 
