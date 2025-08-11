@@ -40,7 +40,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/google-form-automation.git
+   git clone https://github.com/Abhijeet999-beep/google-form-automation.git
    cd google-form-automation
    ```
 
@@ -261,7 +261,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/google-form-automation.git
+git clone https://github.com/Abhijeet999-beep/google-form-automation.git
 cd google-form-automation
 pip install -r requirements-dev.txt
 pre-commit install
